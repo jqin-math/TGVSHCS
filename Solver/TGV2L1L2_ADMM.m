@@ -26,7 +26,7 @@ function output = TGV2L1L2_ADMM(I,P,B,para)
 % Refer to the paper ``A New Detail-preserving Regularity Scheme" by 
 %     Weihong Guo, Jing Qin and Wotao Yin.
 %
-% Jing, updated on 07-16-2014
+% J. Qin, updated on 07-16-2014
 
 %% Read input parameters
 global m n
